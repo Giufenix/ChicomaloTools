@@ -34,7 +34,7 @@ CM Security Tools 是一款集成了多种网络安全扫描功能的综合工�
 
 1. 克隆项目到本地：
 ```bash
-git clone https://github.com/yourusername/CM-Security-Tools.git
+git clone https://gitee.com/Chicomalo/chicomalo-tools.git
 cd CM-Security-Tools
 ```
 
